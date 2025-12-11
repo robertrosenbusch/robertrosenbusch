@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robertrosenbusch aka Robert Rosenbusch
 - 👀 located in Wustermark, Brandenburg, Germany
 - 🌱 I’m currently learning ...Spanish and all the IOT, Netmonitoring and AI-Stuff :-)
-- ⚡ Fun fact: Everything is better with Bluetooth :P
+- ⚡ Fun fact: *Everything* is better with Bluetooth and the _final_ answer will be allways: *42* :P
 - ✨ My Advice: pay attention to your (sys-) admins!
 
 <!---
